@@ -1,2 +1,5 @@
-package hello.hellospring.domain;public class Member {
+package hello.hellospring.domain;
+
+public class Member {
+
 }
